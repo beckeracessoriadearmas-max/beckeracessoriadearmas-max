@@ -12,7 +12,7 @@
 
 ## Projeto Principal
 
-### AgendaElaine
+### AgendaEliane
 Sistema para gerenciamento de clientes, agendamentos e controle financeiro para profissionais autônomos.
 
 ## Objetivos
